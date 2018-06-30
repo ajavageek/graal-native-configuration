@@ -6,6 +6,11 @@
         "name": "<init>",
         "parameterTypes": []
       }
+    ],
+    "fields": [
+      {
+        "name": "label"
+      }
     ]
   },
   {
